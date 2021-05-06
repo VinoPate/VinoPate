@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinoPate
-- 👀 I’m interested in Music Productiona and Audio Engineering
+- 👀 I’m interested in Music Production and Audio Engineering
 - 🌱 I’m currently learning MSc in Software Development - Working on learning C++ right now
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - leo.w.hunter@gmail.com
